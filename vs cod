@@ -1,0 +1,17 @@
+TAXSTNK_DKI/
+│
+├── koneksi.php
+├── index.php
+├── kendaraan.php
+├── tambah_kendaraan.php
+├── edit_kendaraan.php
+├── hapus_kendaraan.php
+├── hitung_pajak.php
+├── tunggakan.php
+├── laporan.php
+│
+├── css/
+│   └── style.css
+│
+└── database/
+    └── taxstnk.sql
